@@ -1,0 +1,3 @@
+com\example\demo\SpringBootJpaProjectApplication.class
+com\example\demo\entities\User.class
+com\example\demo\dao\UserRepositary.class
